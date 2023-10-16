@@ -1,0 +1,1946 @@
+[
+  {
+    "content": "The party had completed a venture in saving the city of Emon and had a keep built in their honor.",
+    "tags": [
+      "<1>",
+      "party",
+      "city of Emon",
+      "keep"
+    ],
+    "id": 1
+  },
+  {
+    "content": "Arcanist Allura Vysoren asked the party to find Lady Kima of Vord who had gone on a pilgrimage and had a vision of evil brewing beneath Kraghammer.",
+    "tags": [
+      "<1>",
+      "Arcanist Allura Vysoren",
+      "Lady Kima of Vord",
+      "pilgrimage",
+      "evil",
+      "Kraghammer"
+    ],
+    "id": 2
+  },
+  {
+    "content": "The party was ambushed by barbarian goliaths, but Grog managed to avoid battle through a social encounter.",
+    "tags": [
+      "<1>",
+      "party",
+      "barbarian goliaths",
+      "Grog",
+      "battle",
+      "social"
+    ],
+    "id": 3
+  },
+  {
+    "content": "The party arrived in Kraghammer and were granted entry after presenting their paperwork.",
+    "tags": [
+      "<5>",
+      "party",
+      "Kraghammer",
+      "entry",
+      "paperwork"
+    ],
+    "id": 4
+  },
+  {
+    "content": "The party explored the city of Kraghammer and saw its underground metropolis, stone work, and a large metal forge.",
+    "tags": [
+      "<12>",
+      "party",
+      "Kraghammer",
+      "metropolis",
+      "stone work",
+      "metal forge"
+    ],
+    "id": 5
+  },
+  {
+    "content": "The party learned that Lady Kima came to Kraghammer to go into the mithral mine and that Lord Nostoc Greyspine owned the biggest part of the mithral market.",
+    "tags": [
+      "<22>",
+      "Lady Kima",
+      "Kraghammer",
+      "mithral mine",
+      "Lord Nostoc Greyspine",
+      "mithral market"
+    ],
+    "id": 6
+  },
+  {
+    "content": "The party was directed to stay at the Pig Pits, a place covered in mud, but they asked for a better recommendation and were directed to the Iron Hearth Tavern.",
+    "tags": [
+      "<39-53>",
+      "party",
+      "Pig Pits",
+      "Iron Hearth Tavern"
+    ],
+    "id": 7
+  },
+  {
+    "content": "The party entered the Iron Hearth Tavern and noticed the music, laughter, arguments, and the smell inside.",
+    "tags": [
+      "<63-64>",
+      "party",
+      "Iron Hearth Tavern",
+      "music",
+      "laughter",
+      "arguments",
+      "smell"
+    ],
+    "id": 8
+  },
+  {
+    "content": "The party enters a tavern and is greeted by the smell of alcohol and smoked wood. They are approached by a group of dwarves who invite them to sit and have a drink. The party joins the dwarves at a table.",
+    "tags": [
+      "<66-76>",
+      "party",
+      "tavern",
+      "dwarves",
+      "drinks"
+    ],
+    "id": 9
+  },
+  {
+    "content": "The party buys a round of drinks for all the dwarves in the tavern. The owner of the tavern, Adra, is impressed and offers them rooms on the second floor. The party negotiates the price for the rooms.",
+    "tags": [
+      "<80-116>",
+      "party",
+      "tavern",
+      "drinks",
+      "rooms",
+      "Adra"
+    ],
+    "id": 10
+  },
+  {
+    "content": "The party decides to pay upfront for a week's stay and gets a discount from Adra. Adra warns them to stay away from the Carvers, who are the guards of the city. Grog shows his scar to Adra and two dwarves react to it.",
+    "tags": [
+      "<120-148>",
+      "party",
+      "tavern",
+      "discount",
+      "Carvers",
+      "scar"
+    ],
+    "id": 11
+  },
+  {
+    "content": "The party learns about the Carvers, a military class in the city who run a tight ship on the streets. They ask about Lord Greyspine and mention a halfling woman staying at the Firebrook Inn. Adra tells them about Balgus Brewery and the undefeated champion, but he's currently drunk. They learn about Ironkeeper Gradim Greyspine, the head of House Greyspine and the council. Adra warns them that they may stick out as outsiders in the lower levels of the city. Adra mentions the mithral mine run by House Greyspine and the Keystone Quarry. They learn about Nostoc Greyspine's role in the mines and businesses. A nearby dwarf mentions troubles at the Greyspine quarry with goblins and something else. Adra tells them about House Thunderbrand, who study arcane arts in the city.",
+    "tags": [
+      "<149>",
+      "Carvers",
+      "Greyspine",
+      "Firebrook Inn",
+      "Balgus Brewery",
+      "champion",
+      "Ironkeeper Gradim Greyspine",
+      "outsiders",
+      "lower levels",
+      "mithral mine",
+      "Keystone Quarry",
+      "Nostoc Greyspine",
+      "goblins",
+      "troubles",
+      "House Thunderbrand",
+      "arcane arts"
+    ],
+    "id": 12
+  },
+  {
+    "content": "The party asks Adra about the city's treatment of outsiders, and she mentions that they would stick out and need to be cautious in the lower levels of the city. Adra also mentions the heavy guard presence in the business areas. They ask about the mithral mine and Adra warns them against going there without proper credentials. Adra confirms the presence of a mithral mine and mentions the Keystone Quarry. They discuss Nostoc Greyspine's position and location, as well as the issues at the Greyspine quarry with goblins and something more.",
+    "tags": [
+      "<184>",
+      "outsiders",
+      "lower levels",
+      "heavy guard presence",
+      "mithral mine",
+      "Keystone Quarry",
+      "Nostoc Greyspine",
+      "Greyspine quarry",
+      "goblins"
+    ],
+    "id": 13
+  },
+  {
+    "content": "Adra tells the party about Balgus Brewery and the undefeated champion, but he's currently drunk at the edge of the bar. The party briefly considers recruiting him as a mercenary in the future.",
+    "tags": [
+      "<162>",
+      "Balgus Brewery",
+      "champion",
+      "mercenary"
+    ],
+    "id": 14
+  },
+  {
+    "content": "The party learns that Ironkeeper Gradim Greyspine is the head of House Greyspine and the entire city council. He was voted in ten years ago. Adra gives them a hard time for mispronouncing his name.",
+    "tags": [
+      "<177>",
+      "Ironkeeper Gradim Greyspine",
+      "House Greyspine",
+      "city council"
+    ],
+    "id": 15
+  },
+  {
+    "content": "Adra mentions House Thunderbrand, who study arcane arts, and are the main focus of all arcane arts in Kraghammer.",
+    "tags": [
+      "<219>",
+      "House Thunderbrand",
+      "arcane arts",
+      "Kraghammer"
+    ],
+    "id": 16
+  },
+  {
+    "content": "Orion and Sam thank Adra for her time and say they will seek her out if they have more questions. Adra scoots them aside to serve the dwarves waiting in line for drinks. The party discusses the time of day and the schedule of dwarves, and Laura rolls an intelligence check to determine that dwarves have variable schedules but generally run in tandem with other races. They decide to check out the Firebrook Inn and send someone to do reconnaissance on Greyspine Manor. They also discuss enlisting the help of a dwarf to introduce them to Nostoc and decide to ask the drunk dwarf Balgus for his assistance. Grog approaches Balgus with a large drink and tries to get his attention. Sam plays a Healing Words spell to sober Balgus up a bit. Grog asks Balgus if they can acquire his knowledge about the town and mentions that there are two ladies who want to ask him a question. After a persuasion roll, Balgus agrees to talk but gives them a time limit. He then stands up and walks over to the party's table.",
+    "tags": [
+      "<225-309>",
+      "Orion",
+      "Sam",
+      "Adra",
+      "party",
+      "dwarves",
+      "Firebrook Inn",
+      "Greyspine Manor",
+      "Nostoc",
+      "Balgus",
+      "Grog",
+      "persuasion"
+    ],
+    "id": 17
+  },
+  {
+    "content": "The party approaches Balgus, who owns the brewery in town, to ask him about the Greyspines. Vex tries to flirt with him but fails her persuasion check. Tiberius introduces himself as a Dragonborn and asks if Balgus remembers the last Dragonborn he fought, but Balgus doesn't provide a name. The party then asks Balgus to accompany them on their journey to find the Greyspines, and after a successful persuasion check, Balgus agrees. However, he tells them that it's customary to bring a gift when meeting the Greyspines. Balgus offers to sell them some rare and exotic drinks from his brewery, specifically a king's red wine made from a rare bloodthistle branch for 500 gold pieces. Keyleth wants to check if he's lying and rolls an insight check.",
+    "tags": [
+      "<310-406>",
+      "party",
+      "Balgus",
+      "Vex",
+      "Tiberius",
+      "Greyspines",
+      "persuasion check",
+      "Dragonborn",
+      "introduction",
+      "gift",
+      "Brewery",
+      "rare drinks",
+      "wine",
+      "insight check"
+    ],
+    "id": 18
+  },
+  {
+    "content": "The group tries to quickly barter with Balgus. They offer dragon pieces and a cup of dragon blood in exchange for a fancy barrel of dwarven wine. Balgus takes the cup of dragon blood but it doesn't fit in the bag of holding. Adra tells them that Greyspine Manor is in the residential district of Kraghammer, with a black iron gate and a dwarven statue of the current Ironkeeper. The party decides to go to the manor later and takes a short rest in the tavern. Tiberius heads towards House Thunderbrand.",
+    "tags": [
+      "<407-487>",
+      "Balgus",
+      "dragon pieces",
+      "cup of dragon blood",
+      "barter",
+      "Adra",
+      "Greyspine Manor",
+      "residential district",
+      "Kraghammer",
+      "Ironkeeper",
+      "short rest",
+      "tavern",
+      "House Thunderbrand",
+      "Tiberius"
+    ],
+    "id": 19
+  },
+  {
+    "content": "Orion informs the party that he is going to House Thunderbrand to ask some questions, and they agree. Pike seems distant and distracted, mentioning feeling like she's been there before. She decides to rest for the evening. Grog and Scanlan go in search of a brothel and find The Stone's Pillow. They choose their companions for the night, with Grog picking the tallest one who turns out to be an elf, and Scanlan choosing a dwarf. Back at Greyspine Manor, Vex and Vax pose as a married couple, but decide to instead pose as siblings while exploring the residential district. They spot three guards from the Carvers following them.",
+    "tags": [
+      "<488-581>",
+      "Orion",
+      "House Thunderbrand",
+      "questions",
+      "Pike",
+      "distant",
+      "rest",
+      "Grog",
+      "Scanlan",
+      "brothel",
+      "Stone's Pillow",
+      "Vex",
+      "Vax",
+      "residential district",
+      "Carvers",
+      "guards"
+    ],
+    "id": 20
+  },
+  {
+    "content": "Pike mentions feeling like she's been to the place before and seems distracted.",
+    "tags": [
+      "<503>",
+      "Pike"
+    ],
+    "id": 21
+  },
+  {
+    "content": "Grog and Scanlan go to The Stone's Pillow brothel and choose their companions for the night, with Grog picking an elf and Scanlan choosing a dwarf.",
+    "tags": [
+      "<510-541>",
+      "Grog",
+      "Scanlan",
+      "brothel",
+      "Stone's Pillow",
+      "elf",
+      "dwarf"
+    ],
+    "id": 22
+  },
+  {
+    "content": "Vex and Vax decide to pose as siblings instead of a married couple while exploring the residential district.",
+    "tags": [
+      "<546-559>",
+      "Vex",
+      "Vax",
+      "residential district"
+    ],
+    "id": 23
+  },
+  {
+    "content": "Vex and Vax spot three guards from the Carvers following them in the residential district.",
+    "tags": [
+      "<562-567>",
+      "Vex",
+      "Vax",
+      "Carvers",
+      "guards",
+      "residential district"
+    ],
+    "id": 24
+  },
+  {
+    "content": "The party is questioned by some guards in Kraghammer about their presence in a district they don't belong to.",
+    "tags": [
+      "<582-614>",
+      "party",
+      "guards",
+      "Kraghammer"
+    ],
+    "id": 25
+  },
+  {
+    "content": "Laura explains that they were interested in seeing the architecture and were told about a beautiful sculpture of the ruler of Kraghammer.",
+    "tags": [
+      "<585-586>",
+      "Laura",
+      "architecture",
+      "sculpture",
+      "ruler of Kraghammer"
+    ],
+    "id": 26
+  },
+  {
+    "content": "The guards ask Laura and the party to make a persuasion roll to convince them of their intentions.",
+    "tags": [
+      "<586-591>",
+      "Laura",
+      "party",
+      "guards",
+      "persuasion roll"
+    ],
+    "id": 27
+  },
+  {
+    "content": "Laura rolls a 21 on her persuasion roll, successfully convincing the guards.",
+    "tags": [
+      "<591>",
+      "Laura",
+      "persuasion roll",
+      "success"
+    ],
+    "id": 28
+  },
+  {
+    "content": "The guards warn the party about the dangers of wandering alone in expensive districts at night and mention the possibility of being mugged or arrested.",
+    "tags": [
+      "<594>",
+      "guards",
+      "party",
+      "warning",
+      "night",
+      "expensive districts",
+      "mugging",
+      "arrest"
+    ],
+    "id": 29
+  },
+  {
+    "content": "The guards notice Trinket, Laura's bear companion, and become cautious.",
+    "tags": [
+      "<596-607>",
+      "Trinket",
+      "guards",
+      "caution"
+    ],
+    "id": 30
+  },
+  {
+    "content": "Laura assures the guards that Trinket is harmless and tries to show them his tricks.",
+    "tags": [
+      "<601-609>",
+      "Laura",
+      "Trinket",
+      "guards",
+      "tricks"
+    ],
+    "id": 31
+  },
+  {
+    "content": "The guards allow the party to see the sculpture but advise against bringing Trinket into the district.",
+    "tags": [
+      "<610-613>",
+      "guards",
+      "party",
+      "Trinket",
+      "district",
+      "sculpture"
+    ],
+    "id": 32
+  },
+  {
+    "content": "The guards lead the party to Greyspine Manor, a prestigious dark marble building owned by the Greyspines.",
+    "tags": [
+      "<621-623>",
+      "guards",
+      "party",
+      "Greyspine Manor",
+      "building",
+      "Greyspines"
+    ],
+    "id": 33
+  },
+  {
+    "content": "The guards express their dislike for the Greyspines, stating that they work their employees too hard.",
+    "tags": [
+      "<628-634>",
+      "guards",
+      "Greyspines",
+      "dislike",
+      "employees"
+    ],
+    "id": 34
+  },
+  {
+    "content": "The guards mention that the Greyspines are responsible for running the mithral mine, which is known for being hard on its employees.",
+    "tags": [
+      "<633-636>",
+      "guards",
+      "Greyspines",
+      "mithral mine",
+      "employees"
+    ],
+    "id": 35
+  },
+  {
+    "content": "The guards bring the party back to the residential district and bid them farewell.",
+    "tags": [
+      "<643-645>",
+      "guards",
+      "party",
+      "residential district"
+    ],
+    "id": 36
+  },
+  {
+    "content": "Laura and Liam discuss splitting off from the guards and roll stealth to do so.",
+    "tags": [
+      "<645-649>",
+      "Laura",
+      "Liam",
+      "stealth",
+      "splitting off"
+    ],
+    "id": 37
+  },
+  {
+    "content": "Sam's character makes a constitution check to see if he withstands the advances of a female dwarf.",
+    "tags": [
+      "<654-661>",
+      "Sam",
+      "constitution check",
+      "female dwarf"
+    ],
+    "id": 38
+  },
+  {
+    "content": "The party rolls for stealth, but the results are not mentioned.",
+    "tags": [
+      "<662-668>",
+      "party",
+      "stealth"
+    ],
+    "id": 39
+  },
+  {
+    "content": "Liam rolls a 20, Laura rolls a 15.",
+    "tags": [
+      "<669>",
+      "Liam",
+      "Laura",
+      "dice roll"
+    ],
+    "id": 40
+  },
+  {
+    "content": "Vax vanished and Vex took a couple steps, then a guard tells them it's dangerous in the dark.",
+    "tags": [
+      "<674>",
+      "Vax",
+      "Vex",
+      "guard"
+    ],
+    "id": 41
+  },
+  {
+    "content": "The guard asks where Vax's friend is, Vex says he went back to the tavern and asks if the guard can show her around the town. The guard agrees reluctantly.",
+    "tags": [
+      "<676-680>",
+      "guard",
+      "Vax",
+      "friend",
+      "tavern"
+    ],
+    "id": 42
+  },
+  {
+    "content": "Liam waves from an alley and Laura tells him to do his thing, then Liam goes back through the shadows.",
+    "tags": [
+      "<681-683>",
+      "Liam",
+      "Laura",
+      "shadows"
+    ],
+    "id": 43
+  },
+  {
+    "content": "The group spends two hours asking around to find House Thunderbrand, a large alabaster building with no gate and an open lawn.",
+    "tags": [
+      "<685>",
+      "group",
+      "House Thunderbrand"
+    ],
+    "id": 44
+  },
+  {
+    "content": "Orion successfully avoids a dwarven rune trap but is hit by a bolt of energy and suffers 8 points of thunder damage.",
+    "tags": [
+      "<687-701>",
+      "Orion",
+      "trap",
+      "thunder damage",
+      "dwarven rune"
+    ],
+    "id": 45
+  },
+  {
+    "content": "Orion tries to get a response from the house, but there is none.",
+    "tags": [
+      "<708-710>",
+      "Orion",
+      "house"
+    ],
+    "id": 46
+  },
+  {
+    "content": "Orion asks what the rest of the group is doing and Taliesin and Marisha say they're making comment cards and mention Balgus and Balan.",
+    "tags": [
+      "<713-719>",
+      "Orion",
+      "Taliesin",
+      "Marisha",
+      "comment cards",
+      "Balgus",
+      "Balan"
+    ],
+    "id": 47
+  },
+  {
+    "content": "Orion looks around the area and sees large alabaster spires with blue crystals on top, about 35-40 feet tall.",
+    "tags": [
+      "<721-722>",
+      "Orion",
+      "alabaster spires",
+      "blue crystals"
+    ],
+    "id": 48
+  },
+  {
+    "content": "Orion tries to shoot a Fireball to the door but realizes he is only 4 feet from the door and changes his mind.",
+    "tags": [
+      "<723-729>",
+      "Orion",
+      "Fireball"
+    ],
+    "id": 49
+  },
+  {
+    "content": "Orion tries using Mage Hand to knock on the door, but the hand is dispelled by a rune.",
+    "tags": [
+      "<737-738>",
+      "Orion",
+      "Mage Hand",
+      "rune"
+    ],
+    "id": 50
+  },
+  {
+    "content": "Orion tries to use Glacial Blast but it is stopped by an invisible barrier and the ice quickly melts.",
+    "tags": [
+      "<739-744>",
+      "Orion",
+      "Glacial Blast",
+      "invisible barrier",
+      "ice"
+    ],
+    "id": 51
+  },
+  {
+    "content": "Orion turns and is surrounded by four Carvers who accuse him of attacking the dwarven family of Kraghammer.",
+    "tags": [
+      "<745-748>",
+      "Orion",
+      "Carvers"
+    ],
+    "id": 52
+  },
+  {
+    "content": "Sam's character is snoring after having sex.",
+    "tags": [
+      "<750>",
+      "Sam"
+    ],
+    "id": 53
+  },
+  {
+    "content": "Orion intimidates the Carvers with an 18, causing them to step back. He explains that he was looking for artifacts and was trying to contact the family but was stopped by a rune. He persuades them with a 24, convincing them to let him go.",
+    "tags": [
+      "<751-756>",
+      "Orion",
+      "Carvers",
+      "intimidation check",
+      "persuasion check",
+      "artifacts",
+      "rune"
+    ],
+    "id": 54
+  },
+  {
+    "content": "The dwarf guard warns Orion to not cause trouble in the city or else he will be buried underground. Orion assures him that he heard the warning. The guards let Orion go and he returns to the tavern.",
+    "tags": [
+      "<757-761>",
+      "Orion",
+      "dwarf guards",
+      "warning",
+      "buried underground",
+      "tavern"
+    ],
+    "id": 55
+  },
+  {
+    "content": "Liam wants to scout the area around the building and see the security details. He sees Carvers doing rounds, but no specific guard detail outside the house.",
+    "tags": [
+      "<763-768>",
+      "Liam",
+      "security details",
+      "carvers",
+      "scouting",
+      "building"
+    ],
+    "id": 56
+  },
+  {
+    "content": "The building and the area outside the gate are heavily guarded due to the presence of the Ironkeeper and powerful dwarven families. Liam decides not to provoke the guards and returns to the inn.",
+    "tags": [
+      "<769-771>",
+      "building",
+      "area",
+      "heavily guarded",
+      "Ironkeeper",
+      "powerful dwarven families",
+      "inn"
+    ],
+    "id": 57
+  },
+  {
+    "content": "Adra comes to the party's room and asks if Trinket is theirs. She warns them to leave because Trinket is causing trouble downstairs.",
+    "tags": [
+      "<790-792>",
+      "Adra",
+      "Trinket",
+      "warning"
+    ],
+    "id": 58
+  },
+  {
+    "content": "Trinket is in the fighting ring in the center of the tavern with other dwarves prodding it. Laura goes downstairs to rescue Trinket.",
+    "tags": [
+      "<794-800>",
+      "Trinket",
+      "fighting ring",
+      "center of the tavern"
+    ],
+    "id": 59
+  },
+  {
+    "content": "Laura tries to get the attention of the dwarves but they ignore her. She calls for Grog for help, and Liam and Marisha join them. Balgus, who was watching the fight, wants to fight Laura and Trinket together.",
+    "tags": [
+      "<805-826>",
+      "Laura",
+      "dwarves",
+      "fight",
+      "Grog",
+      "Liam",
+      "Marisha",
+      "Balgus"
+    ],
+    "id": 60
+  },
+  {
+    "content": "Marisha casts a fog over the ring and turns into a bear to take Trinket's place. Before that, she polymorphs Trinket into a squirrel.",
+    "tags": [
+      "<828-834>",
+      "Marisha",
+      "fog",
+      "bear",
+      "polymorph",
+      "Trinket",
+      "squirrel"
+    ],
+    "id": 61
+  },
+  {
+    "content": "Keyleth turns Trinket into a tiny mouse and tells Scanlan to catch him. Scanlan reluctantly agrees and keeps the mouse. Keyleth then transforms into a bear, replacing Trinket in his original form. Liam's character, Vax, sneak attacks Balgus in the fog, hitting him in the back of the head with the base of his dagger. Balgus does not notice Vax's approach but manages to dodge Vax's fist swing. Vax successfully hits Balgus in the base of the skull, but Balgus seems unaffected. Balgus then grabs Vax's wrist, but Vax disengages and steps away. Balgus taunts the group, frothing at the mouth with ale. Adra tries to stop the chaos, and Keyleth, now in bear form, decides to entertain the crowd by dancing and doing tricks. Scanlan plays music on his shawm, and Tiberius casts Prestidigitation to create fireworks. Orion's character, Tiberius, tries to make a fez for Keyleth's bear form, but is unsuccessful and settles for a paper hat.",
+    "tags": [
+      "<841, 842, 845, 848-869, 878-879, 901, 910-924>",
+      "Keyleth",
+      "Trinket",
+      "Scanlan",
+      "Vax",
+      "Balgus",
+      "fight",
+      "fog",
+      "sneak attack",
+      "bear form",
+      "taunting",
+      "crowd entertainment",
+      "music",
+      "Prestidigitation",
+      "fez",
+      "paper hat"
+    ],
+    "id": 62
+  },
+  {
+    "content": "The bard gives her a d8 inspiration dice as she sings her tune and performs a bear dance. The performance is a natural 20 and the crowd cheers. Balgus, a dwarf in the crowd, is particularly amused and starts laughing. The party joins in the jovial atmosphere and starts collecting tips for the bear. They go to the bar, where Adra, the bartender, is nervous but gives them a drink for Balgus. The party continues to celebrate and Balgus joins them at a table to drink more. They then decide to retire to their rooms, but realize the rooms are small and cramped for a bear.",
+    "tags": [
+      "<925-932>",
+      "<944-947>",
+      "<953-955>",
+      "<957-961>",
+      "<964-965>",
+      "<968-970>",
+      "<979-980>",
+      "<985-988>",
+      "<992>",
+      "party",
+      "bard",
+      "inspiration dice",
+      "performance check",
+      "bear dance",
+      "crowd",
+      "Balgus",
+      "tavern",
+      "tips",
+      "bar",
+      "Adra",
+      "drinks",
+      "celebration",
+      "retire",
+      "rooms",
+      "small",
+      "Trinket"
+    ],
+    "id": 63
+  },
+  {
+    "content": "The bard gives her a d8 inspiration dice as she sings her tune and performs a bear dance. The performance is a natural 20 and the crowd cheers. Balgus, a dwarf in the crowd, is particularly amused and starts laughing. The party joins in the jovial atmosphere and starts collecting tips for the bear.",
+    "tags": [
+      "<925-932>",
+      "bard",
+      "inspiration dice",
+      "performance check",
+      "bear dance",
+      "crowd",
+      "Balgus",
+      "tips"
+    ],
+    "id": 64
+  },
+  {
+    "content": "The party goes to the bar to get a drink for Balgus. Adra, the bartender, is nervous but gives them a drink for Balgus without charging them. They continue to celebrate and Balgus joins them at a table to drink more.",
+    "tags": [
+      "<944-947>",
+      "party",
+      "bar",
+      "Adra",
+      "drinks",
+      "Balgus",
+      "celebration"
+    ],
+    "id": 65
+  },
+  {
+    "content": "The party realizes that the rooms are small and cramped for a bear",
+    "tags": [
+      "<968-970>",
+      "party",
+      "rooms",
+      "small"
+    ],
+    "id": 66
+  },
+  {
+    "content": "Trinket is put in Laura's pocket and they head back to the rooms.",
+    "tags": [
+      "<979-980>",
+      "Laura",
+      "Trinket",
+      "rooms"
+    ],
+    "id": 67
+  },
+  {
+    "content": "Grog and the rest of the party have trouble fitting through the small doors of the inn, and Grog's room is too small for him to fully fit in. They discuss whether to push Trinket through the door or morph her into a mouse. They decide to carry Trinket through as a mouse and then morph her back into a bear in the storage area.",
+    "tags": [
+      "<999-1013>",
+      "Grog",
+      "Trinket",
+      "inn room",
+      "bear",
+      "mouse",
+      "storage area"
+    ],
+    "id": 68
+  },
+  {
+    "content": "The party asks about stables for Trinket but discovers that there are none. They are offered a storage area for Trinket to stay in instead.",
+    "tags": [
+      "<1007-1012>",
+      "party",
+      "Trinket",
+      "stables",
+      "storage area"
+    ],
+    "id": 69
+  },
+  {
+    "content": "The storage room is described as being 40 feet by 30 feet and filled with barrels, crates, and dried food storage. Trinket starts rummaging through a sack of dried meat.",
+    "tags": [
+      "<1019-1021>",
+      "storage room",
+      "barrels",
+      "crates",
+      "dried food",
+      "Trinket"
+    ],
+    "id": 70
+  },
+  {
+    "content": "The party heads back to their rooms to rest for the night.",
+    "tags": [
+      "<1023>",
+      "party",
+      "rest"
+    ],
+    "id": 71
+  },
+  {
+    "content": "The party turns in their comment cards to Balan.",
+    "tags": [
+      "<1029-1030>",
+      "party",
+      "comment cards",
+      "Balan"
+    ],
+    "id": 72
+  },
+  {
+    "content": "Percy's backstory is revealed. He is the third child of a noble family, but his family was overtaken by the Briarwoods who killed or imprisoned everyone. Percy escaped with his sister, who sacrificed herself so that he could get away. Percy ended up on a fishing boat, and eventually designed his first gun.",
+    "tags": [
+      "<1057>",
+      "Percy",
+      "noble family",
+      "Briarwoods",
+      "gun"
+    ],
+    "id": 73
+  },
+  {
+    "content": "Scanlan Shorthalt is a talented musician, master of disguise, and bard extraordinaire. He used his charm and singing skills to support his single mother. After joining Dr. Dranzel's Spectacular Traveling Troupe, he honed his skills as a performer. He is a lover first, performer second, and fighter third. He supports his allies in battle and rarely draws blood. He yearns for true love from a fellow gnome.",
+    "tags": [
+      "Scanlan Shorthalt",
+      "musician",
+      "disguise",
+      "bard",
+      "Dr. Dranzel's Spectacular Traveling Troupe",
+      "performer",
+      "lover",
+      "battle",
+      "gnome"
+    ],
+    "id": 74
+  },
+  {
+    "content": "Tiberius Stormwind is a sorcerer from Tyriex who passed the Sorcerer's Rite at the age of 15, showing prodigy-like control of his magic. He became the youngest appointed member of the magic guild in Draconian history. Feeling bored, he discovered a chamber with books and maps of artifacts from legend. He brought these findings to the council and convinced them to support his mission to find these artifacts. Tiberius considers himself cunning, loyal, happy-go-lucky, and dangerous.",
+    "tags": [
+      "Tiberius Stormwind",
+      "sorcerer",
+      "Tyriex",
+      "Draconia",
+      "magic guild",
+      "chamber",
+      "artifacts",
+      "mission",
+      "cunning",
+      "loyal",
+      "happy-go-lucky",
+      "dangerous"
+    ],
+    "id": 75
+  },
+  {
+    "content": "Vax'ildan is an outsider who learned to skip past formality and solve challenges in his own way. Along with his twin sister Vex'ahlia, he was born from the union of elven royalty and human peasantry. They were raised by their mother and later sent to their father in the elven capital of Syngorn. The twins left after their home was destroyed by a dragon and now seek their fortune in Tal'Dorei. Vax'ildan is skilled with blades and often avoids adversity.",
+    "tags": [
+      "Vax'ildan",
+      "outsider",
+      "elven royalty",
+      "human peasantry",
+      "Syngorn",
+      "dragon",
+      "Tal'Dorei",
+      "blades"
+    ],
+    "id": 76
+  },
+  {
+    "content": "Vex'ahlia is a half-elf who has faced cool reception from her people. She and her twin brother Vax'ildan rely on each other. They were taken from their mother to live in Syngorn, where their father was an ambassador. Tired of the disdainful looks, they left and ventured on their own. Vex'ahlia excels in hunting, tracking, spying, and shooting. She has a bear companion named Trinket that fights alongside her. She is skilled and prefers the isolation of the woods.",
+    "tags": [
+      "Vex'ahlia",
+      "half-elf",
+      "Syngorn",
+      "ambassador",
+      "bear companion",
+      "hunting",
+      "tracking",
+      "spying",
+      "shooting",
+      "woods"
+    ],
+    "id": 77
+  },
+  {
+    "content": "The party wakes up in the dwarven city of Kraghammer and discusses their plan of action. They consider going to the House Thunderbrand and have brunch first. Tiberius fills them in about his failed attempt to enter the house. They plan on returning there later. Grog mentions the comment cards, and although he only wrote a few letters, they consider it a positive feedback. They decide to make their way to Greyspine Manor with a cask of fancy ale/wine.",
+    "tags": [
+      "party",
+      "dwarven city",
+      "Kraghammer",
+      "House Thunderbrand",
+      "brunch",
+      "comment cards",
+      "Greyspine Manor",
+      "fancy ale/wine"
+    ],
+    "id": 78
+  },
+  {
+    "content": "Tiberius polymorphed into a female dwarf to try and trick trolls, but it didn't go well and the party had to fight them. Vex shot off one of the troll's dicks. Tiberius jokingly introduced himself as Tiberius Kraghammer instead of Tiberius Stronghammer. The party arrives in the residential district and encounters two guards who ask for a taste of the gift they brought for the Greyspines. After some persuasion, the guards agree to let the party go and await their return with the gift.",
+    "tags": [
+      "<1112-1127>",
+      "Tiberius",
+      "Vex",
+      "trolls",
+      "guards",
+      "gift"
+    ],
+    "id": 79
+  },
+  {
+    "content": "The guards ask Tiberius what his name is, and he gets confused and says Tiberius Kraghammer instead of Tiberius Stronghammer. The guards find this amusing.",
+    "tags": [
+      "<1142-1154>",
+      "Tiberius",
+      "guards"
+    ],
+    "id": 80
+  },
+  {
+    "content": "The guards ask about the party's business and Vex explains that they want to present a gift to the Greyspines and see the statue again. The guards are interested in tasting the gift and make a deal with the party that they will let them go if they give them a sample of the drink.",
+    "tags": [
+      "<1165-1171>",
+      "Vex",
+      "guards",
+      "gift"
+    ],
+    "id": 81
+  },
+  {
+    "content": "The party persuades the guards to let them save some of the drink for them to enjoy later, and the guards agree. They also ask if the party has any flasks to fill up. The guards warn that if the party doesn't bring them the drink, they will report them to their supervisor.",
+    "tags": [
+      "<1175-1185>",
+      "party",
+      "guards",
+      "drink"
+    ],
+    "id": 82
+  },
+  {
+    "content": "The party promises to bring the guards the drink on their father's good name, and the guards accept the promise.",
+    "tags": [
+      "<1189-1190>",
+      "party",
+      "guards"
+    ],
+    "id": 83
+  },
+  {
+    "content": "The party arrives at House Greyspine, a beautiful estate with an iron gate and a stone garden. They pull a chain next to the door to announce their presence. Percy tries pulling the chain, then Keyleth gives it a go. They are eventually greeted by Magrim, a dwarf servant of the Ironkeeper. The party mentions wanting to discuss mining contracts with Lord Greyspine and asks if they can speak to Nostoc. Magrim informs them that Nostoc is currently at the quarry and directs them there. The party considers breaking into the house but ultimately decides to head to the mines instead. Before leaving, they offer Magrim some ale from a cask they brought. Scanlan turns invisible and sneaks into the house.",
+    "tags": [
+      "<1191-1261>",
+      "House Greyspine",
+      "iron gate",
+      "stone garden",
+      "residential district",
+      "chain",
+      "Magrim",
+      "ironkeeper",
+      "mining contracts",
+      "quarry",
+      "breaking and entering",
+      "ale",
+      "invisible"
+    ],
+    "id": 84
+  },
+  {
+    "content": "The party arrives at House Greyspine, a beautiful estate with an iron gate and a stone garden.",
+    "tags": [
+      "<1191>",
+      "House Greyspine",
+      "iron gate",
+      "stone garden"
+    ],
+    "id": 85
+  },
+  {
+    "content": "Percy and Keyleth pull a chain next to the door to announce their presence.",
+    "tags": [
+      "<1197-1204>",
+      "Percy",
+      "Keyleth",
+      "chain"
+    ],
+    "id": 86
+  },
+  {
+    "content": "Magrim, a servant of the Ironkeeper, opens the door and asks how she can help the party.",
+    "tags": [
+      "<1213-1244>",
+      "Magrim",
+      "Ironkeeper"
+    ],
+    "id": 87
+  },
+  {
+    "content": "The party asks about discussing mining contracts and mentions wanting to speak to Nostoc",
+    "tags": [
+      "<1217-1230>",
+      "mining contracts",
+      "Nostoc"
+    ],
+    "id": 88
+  },
+  {
+    "content": "Magrim directs the party to the quarry to find Nostoc",
+    "tags": [
+      "<1246>",
+      "quarry",
+      "Nostoc"
+    ],
+    "id": 89
+  },
+  {
+    "content": "The party considers breaking into the house, but decide to head to the mines instead",
+    "tags": [
+      "<1248-1254>",
+      "breaking and entering",
+      "house",
+      "mines"
+    ],
+    "id": 90
+  },
+  {
+    "content": "The party offers Magrim some ale and Scanlan turns invisible and sneaks into the house",
+    "tags": [
+      "<1255-1261>",
+      "ale",
+      "invisible"
+    ],
+    "id": 91
+  },
+  {
+    "content": "The party arrives at Palace Greyspine and enters the luxurious foyer. There are tapestries on the walls, small wooden end tables with sculptures and vases, and plants that exist underground. They notice a large stairway leading up and two doors at each side. Scanlan uses his earpiece to communicate with Tiberius and asks for instructions. Tiberius tells Scanlan to look for paperwork related to the mines. Scanlan explores several rooms in the house, including a music room and a locked bed chamber. He finds a finely crafted shawm but resists the temptation to take it. Scanlan and Tiberius confirm that they are the only ones with the earpieces. Scanlan then heads upstairs and discovers a throne room that is still under construction. He tries to pick a locked door but fails and eventually uses Dimension Door to teleport outside. He rejoins the party and tells them about his adventure in the house before suggesting they head to the mines. The party notes that the dwarves in the house are not their enemies and Liam reminds everyone that they only want to speak with Greyspine. Travis mentions that their healer is currently distracted and not feeling well.",
+    "tags": [
+      "<1269>",
+      "Palace Greyspine",
+      "foyer",
+      "luxurious",
+      "tapestry",
+      "end tables",
+      "sculptures",
+      "vases",
+      "plants",
+      "stairway",
+      "doors",
+      "earpiece",
+      "Scanlan",
+      "Tiberius",
+      "instructions",
+      "music room",
+      "shawm",
+      "bed chamber",
+      "locked",
+      "papers",
+      "mines",
+      "throne room",
+      "construction",
+      "Dimension Door",
+      "party",
+      "dwarves",
+      "enemies",
+      "healer"
+    ],
+    "id": 92
+  },
+  {
+    "content": "Scanlan tries to pick a locked door but fails.",
+    "tags": [
+      "<1315-1332>",
+      "Scanlan",
+      "locked door",
+      "pick",
+      "fail"
+    ],
+    "id": 93
+  },
+  {
+    "content": "Scanlan uses Dimension Door to teleport outside and rejoins the party.",
+    "tags": [
+      "<1334-1335>",
+      "Scanlan",
+      "Dimension Door",
+      "teleport",
+      "outside",
+      "party"
+    ],
+    "id": 94
+  },
+  {
+    "content": "The party discusses their intentions with the dwarves and notes that they are not enemies.",
+    "tags": [
+      "<1337>",
+      "party",
+      "intentions",
+      "dwarves",
+      "enemies"
+    ],
+    "id": 95
+  },
+  {
+    "content": "The party mentions that their healer is currently distracted and not feeling well.",
+    "tags": [
+      "<1338-1341>",
+      "party",
+      "healer",
+      "distracted",
+      "not feeling well"
+    ],
+    "id": 96
+  },
+  {
+    "content": "The party makes their way to the mines in Kraghammer, encountering long spiral staircases and elevators with Carvers. They reach the center of town and see a giant domed temple, a heavy foundry with smoke being funneled outside, and a strip mine. They approach the guards at the entrance of the quarry, with Vex using insight to identify the newest guard with a shaved head. The party presents the barrel of ale as a gift for Nostoc.",
+    "tags": [
+      "<1342-1402>",
+      "party",
+      "Kraghammer",
+      "mines",
+      "spiral staircases",
+      "elevators",
+      "Carvers",
+      "domed temple",
+      "foundry",
+      "strip mine",
+      "guards",
+      "gift",
+      "ale",
+      "Nostoc"
+    ],
+    "id": 97
+  },
+  {
+    "content": "The guards show interest in the party's gift, as they were familiar with the rumors but had never seen it themselves.",
+    "tags": [
+      "<1389-1401>",
+      "guards",
+      "gift",
+      "ale",
+      "rumors"
+    ],
+    "id": 98
+  },
+  {
+    "content": "Matt goes inside the building to talk to Nostoc. The doors close behind him and the other guards keep a close eye on the party. Matt returns and informs the party that Nostoc will see them but they need to bring a gift.",
+    "tags": [
+      "<1403>",
+      "Matt",
+      "Nostoc",
+      "guards",
+      "gift"
+    ],
+    "id": 99
+  },
+  {
+    "content": "The party is led into the mine's main structure, a series of long hallways. The air is filled with the smell of soot, ash, and broken stone dust. They enter a large dwarven study where Nostoc is sitting. He has fiery red hair, a buzz-cut on the top, a long, straight beard, and an intimidating dark glare. Nostoc asks the party what brings them to the mines.",
+    "tags": [
+      "<1405>",
+      "party",
+      "mine",
+      "hallways",
+      "Nostoc",
+      "dwarven study"
+    ],
+    "id": 100
+  },
+  {
+    "content": "Percival introduces himself as Percy, but Nostoc interrupts and asks for payment. Grog fills Nostoc's goblet with a drink. Nostoc demands more to be topped off and puts the goblet on the side of the desk. The party tries to bring up the topic of their compatriot who had dealings with Nostoc but is interrupted by Nostoc who mentions he knows who they are talking about.",
+    "tags": [
+      "<1407>",
+      "Percival",
+      "Percy",
+      "Nostoc",
+      "Grog",
+      "drink",
+      "compatriot"
+    ],
+    "id": 101
+  },
+  {
+    "content": "Nostoc describes the party's compatriot as a strong-headed halfling who caused trouble in the mines. The party offers to go after her and bring her out. Nostoc agrees and says he would like that. The party also offers to clear out any unpleasant things they find in the mines.",
+    "tags": [
+      "<1421>",
+      "party",
+      "compatriot",
+      "halfling",
+      "mines"
+    ],
+    "id": 102
+  },
+  {
+    "content": "Nostoc talks about the vision quest the halfling went on and how she broke the Carver rules and went on a mission without permission. The party assures Nostoc that they will find and bring back their friend.",
+    "tags": [
+      "<1422>",
+      "Nostoc",
+      "halfling",
+      "vision quest",
+      "Carver rules"
+    ],
+    "id": 103
+  },
+  {
+    "content": "Nostoc mentions that the halfling looked small, angry, and strong. Orion makes a comment about her not being a looker, but Nostoc refuses to discuss her physical appearance.",
+    "tags": [
+      "<1429-1441>",
+      "Nostoc",
+      "halfling",
+      "appearance"
+    ],
+    "id": 104
+  },
+  {
+    "content": "The party asks Nostoc how much the task of finding their friend would be worth to him. They mention that they brought him a gift worth a thousand gold. Nostoc says that if the party wants to find their friend, they can go find her, but warns them not to steal or cross him.",
+    "tags": [
+      "<1443>",
+      "party",
+      "Nostoc",
+      "task",
+      "gift"
+    ],
+    "id": 105
+  },
+  {
+    "content": "The party reassures Nostoc that they are here to right wrongs and find their friend. Nostoc allows them to enter the mine.",
+    "tags": [
+      "<1450>",
+      "party",
+      "Nostoc",
+      "mine"
+    ],
+    "id": 106
+  },
+  {
+    "content": "Before entering the mine, the party considers finding an arcane house for information on dealing with ghouls and other dangers in the mine. They ask Nostoc for permission to enter in the next few days and if they need badges.",
+    "tags": [
+      "<1461>",
+      "party",
+      "mine",
+      "permission",
+      "arcane house",
+      "badges"
+    ],
+    "id": 107
+  },
+  {
+    "content": "A loud ringing of a bell is heard, signaling the end of their business. The party asks which way to go and is directed by the guards. The guards are then distracted by the ringing of a bell and the party takes advantage of the moment. Liam pours some beer into a flask while the guards are distracted. Laura tries to talk to Nostoc but he doesn't seem interested. Taliesin tries to assist Liam's sleight of hand but fails. Liam falls down in front of Nostoc, but he tells them to leave. The guards start rushing them outside as more bells start ringing. Laura asks about the bell and is told that something is flushing out of the quarry. The party follows the guards down to the quarry and witnesses a group of dwarves running out, chased by goblins. The party attacks the goblins. Orion throws a fireball and kills several goblins and some dwarves. The guards are startled but let the party continue helping. Marisha throws out an entanglement spell, capturing some goblins. Two larger ogre-like creatures then appear and everyone rolls initiative.",
+    "tags": [
+      "<1467-1546>",
+      "bell",
+      "guards",
+      "beer",
+      "flask",
+      "Nostoc",
+      "dwarves",
+      "goblins",
+      "fireball",
+      "ogre",
+      "entanglement",
+      "initiative"
+    ],
+    "id": 108
+  },
+  {
+    "content": "The party follows the guards down to the quarry where dwarves are running out, chased by goblins. The party attacks the goblins. Orion throws a fireball, killing some goblins and dwarves. Marisha casts an entanglement spell to capture some goblins. Two ogre-like creatures then appear and everyone rolls initiative.",
+    "tags": [
+      "<1510-1546>",
+      "quarry",
+      "dwarves",
+      "goblins",
+      "fireball",
+      "ogre",
+      "entanglement",
+      "initiative"
+    ],
+    "id": 109
+  },
+  {
+    "content": "The party rolls for initiative. Taliesin rolls a 27, Laura rolls an 18, Orion rolls a 21, Marisha rolls a 2, Liam rolls a 6, Sam rolls a 3, and Travis rolls an 18.",
+    "tags": [
+      "<1552-1571>",
+      "party",
+      "initiative",
+      "rolls"
+    ],
+    "id": 110
+  },
+  {
+    "content": "Scanlan expresses his distaste for goblins and instructs the party to not spare any of them.",
+    "tags": [
+      "<1562-1567>",
+      "Scanlan",
+      "goblins",
+      "battle"
+    ],
+    "id": 111
+  },
+  {
+    "content": "Percy sets up his large contraption, Bad News, and targets an ogre. He rolls a 30 for attack and deals 27 points of damage.",
+    "tags": [
+      "<1577-1619>",
+      "Percy",
+      "Bad News",
+      "ogre",
+      "attack",
+      "damage"
+    ],
+    "id": 112
+  },
+  {
+    "content": "Orion moves within 60 feet of the two big guys and casts a Fireball in the center, hitting five goblins and two ogres.",
+    "tags": [
+      "<1625-1646>",
+      "Orion",
+      "Fireball",
+      "goblins",
+      "ogres",
+      "spell",
+      "damage"
+    ],
+    "id": 113
+  },
+  {
+    "content": "The party engages in combat with two ogres and some goblins. The goblins disintegrate due to the party's attack, while the ogres make their saving throws and take half damage. Orion then uses the Telekinesis spell to hurl one ogre into the other, knocking them both prone. The ogres take additional impact damage from the throw. Vex casts Hunter's Mark on the most damaged ogre and shoots a Lightning Arrow at it, killing it. The Lightning Arrow then arcs to the other ogre, dealing damage to it as well. The goblins, sensing danger, begin to flee. Grog rages and moves to attack the fleeing goblins.",
+    "tags": [
+      "<1647-1731>",
+      "party",
+      "ogres",
+      "goblins",
+      "combat",
+      "spellcasting",
+      "Telekinesis",
+      "Lightning Arrow",
+      "Hunter's Mark"
+    ],
+    "id": 114
+  },
+  {
+    "content": "The ogres make their saving throws and take half damage from the party's attack. One of the ogres is burnt and wounded, while the other is relatively unharmed. Orion successfully uses the Telekinesis spell to hurl the beaten ogre into the other ogre, knocking them both prone. The ogres take additional impact damage from the throw.",
+    "tags": [
+      "<1647-1671>",
+      "ogres",
+      "damage",
+      "Telekinesis"
+    ],
+    "id": 115
+  },
+  {
+    "content": "Vex casts Hunter's Mark on the damaged ogre and shoots a Lightning Arrow at it, killing it instantly. The Lightning Arrow arcs to the other ogre, dealing damage to it as well. Vex then reassigns her Hunter's Mark to the remaining ogre.",
+    "tags": [
+      "<1675-1699>",
+      "Vex",
+      "Hunter's Mark",
+      "Lightning Arrow",
+      "ogres"
+    ],
+    "id": 116
+  },
+  {
+    "content": "The goblins begin to flee, showing signs of fear in their eyes. They are running away from something, causing them to abandon their instinctual attacks.",
+    "tags": [
+      "<1701-1722>",
+      "goblins",
+      "fleeing",
+      "fear"
+    ],
+    "id": 117
+  },
+  {
+    "content": "Grog rages and moves to attack the fleeing goblins.",
+    "tags": [
+      "<1730-1731>",
+      "Grog",
+      "goblins",
+      "combat",
+      "rage"
+    ],
+    "id": 118
+  },
+  {
+    "content": "Travis attacks the goblins with his greataxe, rolling an 18 + 8 for a total of 26, hitting the first goblin and dealing 13 damage. He then attacks the second goblin, rolling a 21 and dealing 15 damage. Matt describes the deaths of both goblins in detail.",
+    "tags": [
+      "<1732-1746>",
+      "Travis",
+      "Matt",
+      "attack",
+      "damage",
+      "goblins",
+      "greataxe"
+    ],
+    "id": 119
+  },
+  {
+    "content": "Vax joins the battle, attacking the ogre with two daggers. He rolls a natural 20 on one of the attacks, using his poison dagger and dealing a total of 35 damage. The ogre is described as falling lifeless and destroyed.",
+    "tags": [
+      "<1756-1778>",
+      "Vax",
+      "ogre",
+      "daggers",
+      "attack",
+      "damage"
+    ],
+    "id": 120
+  },
+  {
+    "content": "Keyleth creates a wall of stone to seal off the mine entrance. She moves closer to Grog and asks the guards about what's coming. Keyleth rolls a 4 on an intimidation check, but the guards are still taken off guard.",
+    "tags": [
+      "<1786-1808>",
+      "Keyleth",
+      "wall of stone",
+      "guards",
+      "intimidation"
+    ],
+    "id": 121
+  },
+  {
+    "content": "Marisha asks what kind of things are attacking them and where they are coming from.",
+    "tags": [
+      "<1811>",
+      "Marisha",
+      "attacks"
+    ],
+    "id": 122
+  },
+  {
+    "content": "The group hears a loud boom against the stone wall.",
+    "tags": [
+      "<1812>",
+      "sound",
+      "wall"
+    ],
+    "id": 123
+  },
+  {
+    "content": "Taliesin sits down and begins aiming at the wall.",
+    "tags": [
+      "<1813>",
+      "Taliesin",
+      "wall"
+    ],
+    "id": 124
+  },
+  {
+    "content": "Travis draws his blade as the stone cracks.",
+    "tags": [
+      "<1814>",
+      "Travis",
+      "blade",
+      "stone"
+    ],
+    "id": 125
+  },
+  {
+    "content": "The stone wall cracks noticeably and audibly.",
+    "tags": [
+      "<1815>",
+      "wall",
+      "stone"
+    ],
+    "id": 126
+  },
+  {
+    "content": "Liam runs diagonally towards the wall and presses against it.",
+    "tags": [
+      "<1816>",
+      "Liam",
+      "wall"
+    ],
+    "id": 127
+  },
+  {
+    "content": "Laura follows Liam's lead and presses against the other side of the wall.",
+    "tags": [
+      "<1817>",
+      "Laura",
+      "Liam",
+      "wall"
+    ],
+    "id": 128
+  },
+  {
+    "content": "Taliesin comments on the group being fancy.",
+    "tags": [
+      "<1821>",
+      "Taliesin",
+      "group"
+    ],
+    "id": 129
+  },
+  {
+    "content": "Marisha cast Stoneskin on herself.",
+    "tags": [
+      "<1822>",
+      "Marisha",
+      "Stoneskin"
+    ],
+    "id": 130
+  },
+  {
+    "content": "Laura mentions stealthing.",
+    "tags": [
+      "<1823>",
+      "Laura",
+      "stealth"
+    ],
+    "id": 131
+  },
+  {
+    "content": "Matt asks Laura and Liam to roll stealth.",
+    "tags": [
+      "<1824>",
+      "Matt",
+      "Laura",
+      "Liam",
+      "roll",
+      "stealth"
+    ],
+    "id": 132
+  },
+  {
+    "content": "Orion asks about the height of the ceiling.",
+    "tags": [
+      "<1825>",
+      "Orion",
+      "ceiling"
+    ],
+    "id": 133
+  },
+  {
+    "content": "Matt describes the ceiling as the rest of Kraghammer and very high.",
+    "tags": [
+      "<1826>",
+      "Matt",
+      "ceiling",
+      "Kraghammer",
+      "high"
+    ],
+    "id": 134
+  },
+  {
+    "content": "Travis asks about the middle of the room.",
+    "tags": [
+      "<1829>",
+      "Travis",
+      "middle"
+    ],
+    "id": 135
+  },
+  {
+    "content": "Matt describes there being braziers, minecarts, rocks, a smashed cart, and a stone platform in the middle of the room.",
+    "tags": [
+      "<1830>",
+      "Matt",
+      "braziers",
+      "minecarts",
+      "rocks",
+      "cart",
+      "stone platform"
+    ],
+    "id": 136
+  },
+  {
+    "content": "Orion asks if the entanglement is still there.",
+    "tags": [
+      "<1831>",
+      "Orion",
+      "entanglement"
+    ],
+    "id": 137
+  },
+  {
+    "content": "Matt confirms that the entanglement is gone.",
+    "tags": [
+      "<1832>",
+      "Matt",
+      "entanglement"
+    ],
+    "id": 138
+  },
+  {
+    "content": "Taliesin comments on aiming at the wall again.",
+    "tags": [
+      "<1837>",
+      "Taliesin",
+      "aiming",
+      "wall"
+    ],
+    "id": 139
+  },
+  {
+    "content": "Marisha asks if she can move up behind a pillar.",
+    "tags": [
+      "<1838>",
+      "Marisha",
+      "pillar"
+    ],
+    "id": 140
+  },
+  {
+    "content": "Matt confirms Marisha can move behind a pillar.",
+    "tags": [
+      "<1839>",
+      "Matt",
+      "Marisha",
+      "pillar"
+    ],
+    "id": 141
+  },
+  {
+    "content": "Taliesin states that he is staying far back at the moment.",
+    "tags": [
+      "<1840>",
+      "Taliesin",
+      "stay"
+    ],
+    "id": 142
+  },
+  {
+    "content": "Matt confirms the goblins have been taken care of and suggests getting Balgus.",
+    "tags": [
+      "<1842>",
+      "Matt",
+      "goblins",
+      "Balgus"
+    ],
+    "id": 143
+  },
+  {
+    "content": "Laura corrects herself, saying Balgoos, and tells the group to get him.",
+    "tags": [
+      "<1844>",
+      "Laura",
+      "Balgoos",
+      "group"
+    ],
+    "id": 144
+  },
+  {
+    "content": "Matt confirms the wall is not going to hold another impact.",
+    "tags": [
+      "<1845>",
+      "Matt",
+      "wall"
+    ],
+    "id": 145
+  },
+  {
+    "content": "Taliesin continues taking aim.",
+    "tags": [
+      "<1846>",
+      "Taliesin",
+      "aim"
+    ],
+    "id": 146
+  },
+  {
+    "content": "Sam moves up to Grog and asks if anyone has taken any damage.",
+    "tags": [
+      "<1847>",
+      "Sam",
+      "Grog",
+      "damage"
+    ],
+    "id": 147
+  },
+  {
+    "content": "Matt confirms that no one has taken damage yet.",
+    "tags": [
+      "<1848>",
+      "Matt",
+      "damage"
+    ],
+    "id": 148
+  },
+  {
+    "content": "Sam asks if he can inspire everyone.",
+    "tags": [
+      "<1851>",
+      "Sam",
+      "inspire"
+    ],
+    "id": 149
+  },
+  {
+    "content": "Matt confirms that Sam can inspire everyone and explains how inspiration dice can be used.",
+    "tags": [
+      "<1852-1858>",
+      "Matt",
+      "Sam",
+      "inspire"
+    ],
+    "id": 150
+  },
+  {
+    "content": "Orion asks if the cover is adjacent to him and moves behind it to cast Blur.",
+    "tags": [
+      "<1861-1866>",
+      "Orion",
+      "cover",
+      "Blur"
+    ],
+    "id": 151
+  },
+  {
+    "content": "Matt confirms that Orion can cast Blur and that Stoneskin is still active.",
+    "tags": [
+      "<1865>",
+      "Matt",
+      "Orion",
+      "Stoneskin",
+      "Blur"
+    ],
+    "id": 152
+  },
+  {
+    "content": "Matt describes a naga-like creature bursting through the wall with five additional different colored naga heads stitched to its body.",
+    "tags": [
+      "<1869-1871>",
+      "Matt",
+      "creature"
+    ],
+    "id": 153
+  },
+  {
+    "content": "Laura asks if she can transfer her Hunter's Mark to the creature.",
+    "tags": [
+      "<1875>",
+      "Laura",
+      "Hunter's Mark",
+      "creature"
+    ],
+    "id": 154
+  },
+  {
+    "content": "Matt confirms that Laura can transfer her Hunter's Mark to the creature.",
+    "tags": [
+      "<1876>",
+      "Matt",
+      "Laura",
+      "Hunter's Mark",
+      "creature"
+    ],
+    "id": 155
+  },
+  {
+    "content": "Taliesin takes his turn to aim.",
+    "tags": [
+      "<1879>",
+      "Taliesin",
+      "aim"
+    ],
+    "id": 156
+  },
+  {
+    "content": "Orion asks Taliesin what he just did.",
+    "tags": [
+      "<1883>",
+      "Orion",
+      "Taliesin"
+    ],
+    "id": 157
+  },
+  {
+    "content": "Taliesin explains that he just aimed.",
+    "tags": [
+      "<1884>",
+      "Taliesin"
+    ],
+    "id": 158
+  },
+  {
+    "content": "Laura asks if they need to reroll initiative.",
+    "tags": [
+      "<1885>",
+      "Laura",
+      "reroll",
+      "initiative"
+    ],
+    "id": 159
+  },
+  {
+    "content": "Matt decides to keep the same initiative order.",
+    "tags": [
+      "Matt"
+    ],
+    "id": 160
+  },
+  {
+    "content": "Orion casts an aimed ray attack, rolling a 23 to hit and dealing 12 points of damage to the naga. He then rolls a natural 20 for the second shot, dealing 24 points of damage.",
+    "tags": [
+      "<1890-1913>",
+      "Orion",
+      "ray attack",
+      "damage",
+      "naga"
+    ],
+    "id": 161
+  },
+  {
+    "content": "Laura shoots two arrows at the naga, hitting with a 21 and dealing 18 points of damage with the first arrow, and hitting with a 24 and dealing 14 points of damage with the second arrow.",
+    "tags": [
+      "<1918-1953>",
+      "Laura",
+      "arrows",
+      "damage",
+      "naga"
+    ],
+    "id": 162
+  },
+  {
+    "content": "Grog throws his greataxe using the chain of returning crafted by Tiberius, hitting with a 17 and dealing 15 points of damage. He then successfully pulls the weapon free with an athletics check of 12.",
+    "tags": [
+      "<1954-1977>",
+      "Grog",
+      "greataxe",
+      "damage",
+      "athletics check"
+    ],
+    "id": 163
+  },
+  {
+    "content": "A multi-headed creature attacks Keyleth and Tiberius, striking Keyleth with two critical hits and one regular hit. Keyleth takes 6 damage, 7 damage, and 6 damage, all halved due to Stoneskin. She also fails a constitution saving throw and takes 31 points of poison damage. Tiberius takes 13 points of damage, halved by Stoneskin, and makes his constitution saving throw, resisting the poison. Vax throws two daggers at the creature, both hitting and dealing a total of 44 damage and 6 damage. Keyleth then uses Thunderwave to push the creature back 15 feet and transforms into an eagle.",
+    "tags": [
+      "<1984-2074>",
+      "Keyleth",
+      "Tiberius",
+      "multi-headed creature",
+      "damage",
+      "Stoneskin",
+      "constitution saving throw",
+      "poison damage",
+      "Vax",
+      "daggers",
+      "Thunderwave",
+      "eagle"
+    ],
+    "id": 164
+  },
+  {
+    "content": "The creature moves in bursts of lightning energy and attacks with each of its five heads. It scores two critical hits against Keyleth and one hit against Tiberius. The damage against Keyleth is halved due to Stoneskin. Keyleth takes 6 damage, 7 damage, and 6 damage, while Tiberius takes 13 damage. Keyleth also fails a constitution saving throw and suffers 31 points of poison damage. Vax throws two daggers at the creature, dealing 44 damage and 6 damage. Keyleth then pushes the creature back with Thunderwave and transforms into an eagle.",
+    "tags": [
+      "<1988-2066>",
+      "creature",
+      "Keyleth",
+      "Tiberius",
+      "heads",
+      "lightning energy",
+      "critical hits",
+      "hit",
+      "damage",
+      "Stoneskin",
+      "constitution saving throw",
+      "poison damage",
+      "Vax",
+      "daggers",
+      "Thunderwave",
+      "eagle"
+    ],
+    "id": 165
+  },
+  {
+    "content": "Scanlan, the bard, kills the naga beast with a lightning bolt, slowly torturing it as the bolt crawls up its body. The body falls limp to the ground, and the other dwarves congratulate Scanlan on his victory. The party then ends for the night.",
+    "tags": [
+      "<2098-2122>",
+      "Scanlan",
+      "bard",
+      "naga beast",
+      "lightning bolt",
+      "victory",
+      "dwarves",
+      "party"
+    ],
+    "id": 166
+  },
+  {
+    "content": "The party is leaving the game for the night.",
+    "tags": [
+      "<2134>",
+      "party"
+    ],
+    "id": 167
+  }
+]

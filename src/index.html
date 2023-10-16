@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DnD Notes</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      #notes, #transcripts {
+        height: 80vh;
+        overflow-y: scroll;
+        border: 1px solid #000;
+        padding: 10px;
+        margin-top: 10px;
+      }
+      .note, .transcript-line {
+        border-bottom: 1px solid #000;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+      }
+      .transcript {
+        display: none;
+      }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <h1>DnD Notes</h1>
+    <button id="swapView">Swap to Transcripts</button>
+    <input type="text" id="search" placeholder="Search notes and transcripts...">
+    <select id="tagSelect"></select>
+    <!-- <div id="selectionPanel" style="text-align: right;">
+      <select id="campaignSelect"></select>
+      <select id="sessionSelect"></select>
+    </div> -->
+    <div id="notes"></div>
+    <div id="transcripts" style="display: none;"></div>
+
+    <script>
+      var transcript = [];
+      var mode = 'note';
+
+      var selectedCampaign = 'mightynein';
+      var selectedSession = '1';
+
+      $(document).ready(function(){
+        $.getJSON('/getNotes/' + selectedCampaign + '/' + selectedSession, function(data){
+          fillTagSelect(data);
+          displayNotes(data);
+
+          $('#search').on('input', function(){
+            filterNotes(data);
+          });
+
+          $('#tagSelect').on('change', function(){
+            filterNotes(data);
+          });
+
+          $.getJSON('/getTranscript/' + selectedCampaign + '/' + selectedSession, function(transcriptLines){
+            transcript = transcriptLines;
+            displayTranscripts(transcriptLines);
+          });
+        });
+        
+        $.getJSON('/getCampaigns', function(campaigns){
+          fillCampaignSelect(campaigns);
+        });
+
+        $('#campaignSelect').on('change', function(){
+          selectedCampaign = $(this).val();
+          if (selectedCampaign) {
+            $.getJSON('/getSessions/' + selectedCampaign, function(sessions){
+              fillSessionSelect(sessions);
+            });
+          } else {
+            $('#sessionSelect').html('');
+          }
+        });
+
+        $('#sessionSelect').on('change', function(){
+          selectedCampaign = $('#campaignSelect').val();
+          selectedSession = $(this).val();
+        });
+
+        $('#swapView').on('click', function(){
+            if(mode == 'note'){
+                mode = 'transcript';
+            }
+            else{
+                mode = 'note';
+            }
+            var button = $(this);
+            var swapToNotes = button.text() === 'Swap to Notes';
+            $('#notes, #tagSelect').toggle(swapToNotes);
+            $('#transcripts').toggle(!swapToNotes);
+            button.text(swapToNotes ? 'Swap to Transcripts' : 'Swap to Notes');
+        });
+
+      });
+
+      function fillCampaignSelect(campaigns) {
+        var html = '<option value="">Select a campaign</option>';
+        for (let campaign of campaigns) {
+          html += '<option value="' + campaign + '">' + campaign + '</option>';
+        }
+        $('#campaignSelect').html(html);
+      }
+
+      function fillSessionSelect(sessions) {
+        var html = '<option value="">Select a session</option>';
+        for (let session of sessions) {
+          html += '<option value="' + session + '">Session ' + session + '</option>';
+        }
+        $('#sessionSelect').html(html);
+      }
+
+      function filterNotes(data) {
+        var search = $('#search').val().toLowerCase();
+        var tagSelect = $('#tagSelect').val().toLowerCase();
+        
+        if (mode === 'transcript') {
+            search = search.replace(/[<>]/g, '');
+            
+            let lineNumbers = [];
+            let filtered = [];
+            
+            if (/^[\d,\-\s]+$/.test(search)) {
+            let searchTerms = search.split(',');
+
+            for (let term of searchTerms) {
+                term = term.trim();
+                if (term.includes('-')) {
+                let [start, end] = term.split('-').map(Number);
+                for (let i = start; i <= end; i++) {
+                    lineNumbers.push(i);
+                }
+                }
+                else {
+                lineNumbers.push(Number(term));
+                }
+            }
+
+            filtered = transcript.filter(function(line){
+                return lineNumbers.includes(line.number);
+            });
+            } 
+            else {
+            filtered = transcript.filter(function(line){
+                return line.content.toLowerCase().includes(search);
+            });
+            }
+            
+            displayTranscripts(filtered);
+        }
+        else if(mode =="note"){
+            var search = $('#search').val().toLowerCase();
+            var tagSelect = $('#tagSelect').val().toLowerCase();
+            var searchTokens = search.split(' ').filter(token => token.length > 0);
+            var filtered = data.filter(function(note){
+                return searchTokens.every(token => {
+                    var negate = token[0] === '-';
+                    var tagSearch = token[negate ? 1 : 0] === '+';
+                    var searchTerm = tagSearch ? token.slice(negate ? 2 : 1) : token.slice(negate ? 1 : 0);
+                    var match = note.tags.some(tag => tag.toLowerCase().includes(searchTerm));
+                    return negate ? !match : match;
+                }) && (tagSelect === '' || note.tags.some(tag => tag.toLowerCase() === tagSelect));
+            });
+            displayNotes(filtered);
+        }
+      }
+
+      function fillTagSelect(notes) {
+        var tags = {};
+        for (let note of notes) {
+          note.tags.forEach(tag => {
+            if (!tag.startsWith('<') && !tag.endsWith('>')) {
+              tags[tag] = (tags[tag] || 0) + 1;
+            }
+          });
+        }
+        var sortedTags = Object.entries(tags).sort((a, b) => b[1] - a[1]);
+        var html = '<option value="">All tags</option>';
+        for (let tag of sortedTags) {
+          html += '<option value="' + tag[0] + '">' + tag[0] + ' (' + tag[1] + ')</option>';
+        }
+        $('#tagSelect').html(html);
+      }
+
+      function displayNotes(notes){
+        var html = '';
+        for (let note of notes){
+          var tags = note.tags.filter(tag => !tag.startsWith('<') && !tag.endsWith('>'));
+          var citations = note.tags.filter(tag => tag.startsWith('<') && tag.endsWith('>'));
+          html += '<div class="note">';
+          html += '<h2>Note ' + note.id + '</h2>';
+          html += '<p>' + note.content + '</p>';
+          html += '<p><strong>Tags:</strong> ' + tags.join(', ') + '</p>';
+          html += '<p><strong>Citations:</strong> ' + citations.join(', ') + '</p>';
+          html += '<div class="transcript" style="display: none;"></div>';
+          html += '</div>';
+        }
+        $('#notes').html(html);
+      }
+
+      function displayTranscripts(transcriptLines){
+        var html = '';
+        for (let line of transcriptLines){
+          html += '<div class="transcript-line">';
+          html += '<p><strong>' + line.number + '</strong> ' + line.speaker + ': ' + line.content + '</p>';
+          html += '</div>';
+        }
+        $('#transcripts').html(html);
+      }
+    </script>
+  </body>
+</html>
